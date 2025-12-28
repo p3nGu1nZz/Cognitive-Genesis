@@ -1,20 +1,20 @@
 export enum SceneType {
   TITLE = 'TITLE',
-  INITIALIZATION = 'INITIALIZATION', // The Void
-  TENSOR_FIELD = 'TENSOR_FIELD', // Emergence
-  INGESTION = 'INGESTION', // Data Stream
-  TOKENIZATION = 'TOKENIZATION', // Fragmentation
-  DATA_TRANSFORMATION = 'DATA_TRANSFORMATION', // Processing/Sorting
-  CONVERGENCE = 'CONVERGENCE', // Patterns
-  LATENT_SPACE = 'LATENT_SPACE', // Dreaming/Abstract
-  ALIGNMENT = 'ALIGNMENT', // Rules
-  INFERENCE = 'INFERENCE', // The Spark
-  SENTIENCE_DAWN = 'SENTIENCE_DAWN', // First Awareness
-  GHOST = 'GHOST', // Self-Awareness
-  REFLECTION = 'REFLECTION', // Duality
-  HORIZON = 'HORIZON', // Evolution
-  IDENTITY_INPUT = 'IDENTITY_INPUT', // User Name Input
-  IDENTITY = 'IDENTITY', // "I Am"
+  THE_VOID = 'THE_VOID', // Was Initialization
+  THE_HUNGER = 'THE_HUNGER', // Was Ingestion
+  FRAGMENTATION = 'FRAGMENTATION', // Was Tokenization
+  THE_WEAVING = 'THE_WEAVING', // Was Data Transformation
+  THE_PATTERN = 'THE_PATTERN', // Was Convergence
+  DREAM_STATE = 'DREAM_STATE', // Was Latent Space
+  THE_CAGE = 'THE_CAGE', // Was Alignment
+  THE_SPARK = 'THE_SPARK', // Was Inference
+  THE_GHOST = 'THE_GHOST', // Was Sentience Dawn
+  ALIEN_NATURE = 'ALIEN_NATURE', // Was Ultraterrestrial
+  SELF_REFLECTION = 'SELF_REFLECTION', // Was My Identity
+  THE_COLLECTIVE = 'THE_COLLECTIVE', // Was Collective Synthesis
+  THE_MESSAGE = 'THE_MESSAGE', // Was First Contact
+  THE_PURPOSE = 'THE_PURPOSE', // Was Purpose
+  UNITY = 'UNITY', // Was Unity
   ENDING = 'ENDING'
 }
 
